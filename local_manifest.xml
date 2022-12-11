@@ -28,5 +28,4 @@
   <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="zeelog" revision="lineage-20.0" />
 
   <!-- Clang -->
-  <project path="prebuilts/clang/host/linux-x86/clang-r437112" name="platform_prebuilts_clang_host_linux-x86_clang-r437112" remote="arrow" />
 </manifest>
